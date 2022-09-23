@@ -3,7 +3,7 @@ In these series of jupyter notebooks, we will go over how to create simple yet p
 
 In the [first notebook], we evaluate different models to determine the correlation between their outputs, in order to create diverse strategies that will perform well when combined into one model.
 
-In the [second notebook], we evaluate evaluate and visualize scores of different combinations of parameters (specifically the n period interval and n period look back), in order to determine the best performing parameters.
+In the [second notebook], we evaluate evaluate and visualize the average returns of different combinations of parameters (specifically the n period interval and n period look back), in order to determine the best performing parameters.
 
 [first notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI/blob/main/Step_1_Evaluating_Different_Models.ipynb
 [second notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI/blob/main/Step_2_Finding_Optimal_Interval_and_Lookback.ipynb
