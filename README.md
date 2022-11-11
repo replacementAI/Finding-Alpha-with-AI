@@ -1,9 +1,9 @@
 # Finding Alpha with AI
 In these series of jupyter notebooks, we will go over how to create simple AI models for strategies in the stock market. 
 
-In the [first notebook], we evaluate and visualize different models to determine the correlation between their outputs, in order to create diverse strategies that will perform well when combined into one model.
+In the [first notebook], we evaluate and visualize different models to determine the correlation (aka similarity) between their outputs, in order to create diverse strategies that will perform well when combined into one model.
 
-In the [second notebook], we evaluate and visualize the average returns of different combinations of parameters (specifically the n period interval and n period look back), in order to determine the best performing parameters.
+In the [second notebook], we compare the returns of different combinations of parameters (specifically the N period interval and N period look back window) to determine the best performing combination of parameters.
 
 In the [third notebook], we evaluate different parameters of models, scoring them on average returns, in order to determine the best performing model parameters.
 
