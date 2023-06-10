@@ -1,4 +1,6 @@
 # Finding Alpha with AI
+NOTICE: This repo is v1, I have created an updated version at [v2].
+
 In these series of jupyter notebooks, we will go over how to create simple AI models for strategies in the stock market. 
 
 In the [first notebook], we evaluate and visualize different models to determine the correlation (aka similarity) between their outputs, in order to create diverse strategies that will perform well when combined into one model.
@@ -10,3 +12,4 @@ In the [third notebook], we evaluate different parameters of models (as opposed 
 [first notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI/blob/main/Code/Step_1_Evaluating_Different_Models.ipynb
 [second notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI/blob/main/Code/Step_2_Finding_Optimal_Interval_and_Lookback.ipynb
 [third notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI/blob/main/Code/Step_3_Optimizing_Model_Parameters.ipynb
+[v2]: https://github.com/replacementAI/Finding-Alpha-with-AI-v2
